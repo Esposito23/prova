@@ -1,10 +1,6 @@
-Modifiche da test1:
-    sono 1
-    sono 2
-    sono 3
-
-
-Modifiche da test2:
-    sono 1
-    sono 2
-    sono 3
+def pippo():
+    print("pippo")
+    return 1
+def pluto():
+    print("pluto")
+    return 2    
