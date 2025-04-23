@@ -3,8 +3,8 @@ def pippo():
     return 34
 
 def carlo():
-    print("carlo")
-    print("pippo")
+    print("pluto")
+    print("pluto")
     return 100
 def pluto():
     print("pluto")
