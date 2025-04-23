@@ -3,4 +3,4 @@ def pippo():
     return 1
 def pluto():
     print("pluto")
-    return 2    
+    return 1    
