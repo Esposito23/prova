@@ -4,7 +4,7 @@ def pippo():
 
 def carlo():
     print("carlo")
-    return 0
+    return 10
 
 
 def puccio():
