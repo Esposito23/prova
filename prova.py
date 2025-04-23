@@ -1,6 +1,6 @@
 def pippo():
     print("pippo")
-    return 1
+    return 34
 
 def carlo():
     print("carlo")
@@ -14,3 +14,8 @@ def puccio():
 def pluto():
     print("pluto")
     return 1    
+
+
+def pippo2():
+    print("pippo2")
+    return 0
