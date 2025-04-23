@@ -3,6 +3,7 @@ def pippo():
     return 34
 
 def carlo():
+    print("pippo")
     print("carlo")
     return 10
 
