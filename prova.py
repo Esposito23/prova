@@ -5,13 +5,7 @@ def pippo():
 def carlo():
     print("carlo")
     print("pippo")
-    return 10
-
-
-def puccio():
-    print("cazzo")
-    return 0
-
+    return 100
 def pluto():
     print("pluto")
     return 1    
