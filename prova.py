@@ -4,11 +4,7 @@ def pippo():
 
 def carlo():
     print("carlo")
-    return 100000
-
-def carlo2():
-    print("carlo2")
-    return 2
+    return 0
 
 def pluto():
     print("pluto")
