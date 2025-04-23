@@ -8,7 +8,7 @@ def carlo():
 
 
 def puccio():
-    print("puccio")
+    print("cazzo")
     return 0
 
 def pluto():
